@@ -201,8 +201,6 @@ Takahashi, Y., Nomoto, A., Yoda, S., Hisayama, R., Ogata, M., Ozeki, Y., & Tanab
 
 Réalisé dans le cadre de PRICE 39, porté par Safran Tech via l'incubateur MicroPower.
 
-*Noms et rôles de l'équipe à compléter.*
-
 ---
 
 ## English
@@ -392,5 +390,3 @@ Takahashi, Y., Nomoto, A., Yoda, S., Hisayama, R., Ogata, M., Ozeki, Y., & Tanab
 ### Team
 
 Built as part of PRICE 39, run by Safran Tech through the MicroPower incubator.
-
-*Team names and roles to be added.*
